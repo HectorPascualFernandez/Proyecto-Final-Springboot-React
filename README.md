@@ -24,7 +24,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tu-usuario/tienda-videojuegos/main/docs/assets/setup-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tu-usuario/tienda-videojuegos/main/docs/assets/setup-light.png">
-  <img alt="Diagrama de configuración">
 </picture>
 
 ### Requisitos Previos
