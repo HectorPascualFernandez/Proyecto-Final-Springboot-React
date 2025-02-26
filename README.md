@@ -28,7 +28,7 @@
 
 ### Requisitos Previos
 
-- Java 11+
+- Java 17+
 - Node.js 14+
 - MySQL/MariaDB
 - Maven
