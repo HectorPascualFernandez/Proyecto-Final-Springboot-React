@@ -1,7 +1,5 @@
 # 🎮 Tienda de Videojuegos - Sistema de Gestión Completo
 
-![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/tienda-videojuegos)
-![GitHub top language](https://img.shields.io/github/languages/top/tu-usuario/tienda-videojuegos)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-green)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![JWT](https://img.shields.io/badge/JWT-Auth-yellow)
@@ -26,7 +24,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tu-usuario/tienda-videojuegos/main/docs/assets/setup-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tu-usuario/tienda-videojuegos/main/docs/assets/setup-light.png">
-  <img alt="Diagrama de configuración" src="https://raw.githubusercontent.com/tu-usuario/tienda-videojuegos/main/docs/assets/setup-light.png">
+  <img alt="Diagrama de configuración">
 </picture>
 
 ### Requisitos Previos
